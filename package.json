@@ -1,0 +1,23 @@
+{
+  "name": "meadowlarktravel",
+  "version": "1.0.0",
+  "description": "Development with modejs express and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/davirlein1988/medow-lark-travel.git"
+  },
+  "author": "Davirlein Prada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davirlein1988/medow-lark-travel/issues"
+  },
+  "homepage": "https://github.com/davirlein1988/medow-lark-travel#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express3-handlebars": "^0.5.2"
+  }
+}
